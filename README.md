@@ -14,16 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenli178&show_icons=true&count_private=true&theme=react)](https://github.com/allenli178/github-readme-stats)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allenli178&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenli178&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenli178&repo=convoychat" />
-</a>
- -->
 
 
 ### Hi there 👋
@@ -50,10 +40,10 @@ I am allenli who is a cs student from China.
   <tr>
     <td>
       
-![my github stats](https://github-readme-stats.vercel.app/api?username=JsonChao&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
+![my github stats](https://github-readme-stats.vercel.app/api?username=allenli178&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsonChao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     </td>
     </tr> 
