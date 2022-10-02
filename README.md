@@ -1,33 +1,29 @@
-
+![Visitor Count](https://profile-counter.glitch.me/allenli178/count.svg)
 
 ### Who am I?  
-## Hey 👋, I'm 子殊!  
+
+## Hey 👋, I'm 子殊  
   
+### My Introduction  
 
+####
 
-
-### My Introduction.  
-#### 
 - I am a ♌.
 - I am from 🇨🇳.
 - I am a 👨‍🎓.
 - My favorite fruit is 🍍.  
   
-
 <br/>  
 
-
 ## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Rust.  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
 
 </td><td valign="top" width="50%">
 
@@ -35,13 +31,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
 
 <br/>  
 
-
 ## Languages and Tools  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -65,8 +60,8 @@
 
 <br/>  
 
-
 ## Github Stats  
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=allenli178&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -79,9 +74,8 @@
 
 <br/>  
 
-
-
 ### My favorite bank  
+
 <img src="https://ss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=6077bef471cf3bc7e855c5eae1309699/3801213fb80e7bec539941182e2eb9389a506b83.jpg" align="left" height="178" width="178" />  
 
 <br />
