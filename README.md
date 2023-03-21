@@ -18,32 +18,10 @@
 ## Some Links
 
 
-## Rapidfire  
-
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Rust.  
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-- ⚡ Fun fact: I keep night shift swithed on at all times
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
-<br/>  
 
 
-<div align="center">  
 
-</div>  
-
-<br/>  
+ 
 
 ## Github Stats  
 
