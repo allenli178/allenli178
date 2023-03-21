@@ -6,23 +6,11 @@
   
 ### My Introduction  
 
-####
-
 - I am a ♌.
 - I am from 🇨🇳.
 - I am a 👨‍🎓.
 - My favorite fruit is 🍍.  
   
-<br
-/>  
-## Some Links
-
-
-
-
-
- 
-
 ## Github Stats  
 
 <table><tr><td valign="top" width="50%">
@@ -31,12 +19,16 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178&hide_border=true&layout=compact" align="left" style="width: 100%" /></td></tr></table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178&hide_border=true&theme=onedark&layout=compact" align="left" style="width: 100%" /></td></tr></table>
 
+## Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=allenli178&theme=ocean-dark&locale=zh_Hans)](https://git.io/streak-stats)
 
+## Github Activity Graph
 [![allenli178's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allenli178&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## All skills
+
+## All Skills
 <p>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,astro,arduino,azure,bash,bevy,css,deno,html,js,linux,md,nodejs,nuxtjs,postgres,prisma,redis,rollupjs,rust,sass,sqlite,solidjs,tailwind,tauri,ts,vite,vue,wasm,windicss,py" />
