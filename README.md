@@ -38,7 +38,6 @@
 
 <br/>  
 
-## Languages and Tools  
 
 <div align="center">  
 
@@ -54,15 +53,14 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenli178&hide_border=true&layout=compact" align="left" style="width: 100%" /></td></tr></table>
 
-### All skills
-<p>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,astro,arduino,azure,bash,bevy,css,deno,html,js,linux,md,nodejs,nuxtjs,postgres,prisma,redis,rollupjs,rust,sass,sqlite,solidjs,tailwind,tauri,ts,vite,vue,wasm,windicss" />
-  </a>
-</p>
 
 [![allenli178's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allenli178&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![allenli178's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenli178)](https://github.com/anuraghazra/github-readme-stats)
+## All skills
+<p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,astro,arduino,azure,bash,bevy,css,deno,html,js,linux,md,nodejs,nuxtjs,postgres,prisma,redis,rollupjs,rust,sass,sqlite,solidjs,tailwind,tauri,ts,vite,vue,wasm,windicss,py" />
+  </a>
+</p>
