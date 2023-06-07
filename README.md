@@ -25,7 +25,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=allenli178&theme=ocean-dark&locale=zh_Hans)](https://git.io/streak-stats)
 
 ## Github Activity Graph
-[![allenli178's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allenli178&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![allenli178's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allenli178&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## All Skills
