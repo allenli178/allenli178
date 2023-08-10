@@ -31,6 +31,6 @@
 ## All Skills
 <p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,astro,arduino,bevy,css,deno,html,js,linux,md,nodejs,postgres,prisma,redis,rust,sass,sqlite,solidjs,tailwind,tauri,ts,vite,vue,wasm,py" />
+    <img src="https://skillicons.dev/icons?i=git,astro,arduino,bevy,css,deno,html,js,linux,md,prisma,rust,sass,sqlite,solidjs,tailwind,tauri,ts,vite,vue,wasm,py" />
   </a>
 </p>
